@@ -1,0 +1,191 @@
+C:\Users\St\documents\visual studio 2010\Projects\NatCalculator\NatCalculator\bin\Debug\NatCalculator.exe
+C:\Users\St\documents\visual studio 2010\Projects\NatCalculator\NatCalculator\bin\Debug\NatCalculator.pdb
+C:\Users\St\documents\visual studio 2010\Projects\NatCalculator\NatCalculator\obj\x86\Debug\NatCalculator.Form1.resources
+C:\Users\St\documents\visual studio 2010\Projects\NatCalculator\NatCalculator\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+C:\Users\St\documents\visual studio 2010\Projects\NatCalculator\NatCalculator\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+C:\Users\St\documents\visual studio 2010\Projects\NatCalculator\NatCalculator\obj\x86\Debug\NatCalculator.exe
+C:\Users\St\documents\visual studio 2010\Projects\NatCalculator\NatCalculator\obj\x86\Debug\NatCalculator.pdb
+C:\Users\Bo\Downloads\NatCalculator\obj\x86\Debug\NatCalculator.exe
+C:\Users\Bo\Downloads\NatCalculator\obj\x86\Debug\NatCalculator.pdb
+C:\Users\Bo\Downloads\NatCalculator\bin\Debug\NatCalculator.exe
+C:\Users\Bo\Downloads\NatCalculator\bin\Debug\NatCalculator.pdb
+C:\Users\Bo\Downloads\NatCalculator\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Downloads\NatCalculator\obj\x86\Debug\NatCalculator.Form1.resources
+C:\Users\Bo\Downloads\NatCalculator\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+C:\Users\Bo\Downloads\NatCalculator\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\NatCalculator.resultBox.resources
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\PrintableListView.PrintableListView.resources
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+C:\Users\St\Downloads\NatCalculator (2)\bin\Debug\PaymentCalculator.exe.manifest
+C:\Users\St\Downloads\NatCalculator (2)\bin\Debug\PaymentCalculator.application
+C:\Users\St\Downloads\NatCalculator (2)\bin\Debug\PaymentCalculator.exe
+C:\Users\St\Downloads\NatCalculator (2)\bin\Debug\PaymentCalculator.pdb
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\PaymentCalculator.exe.manifest
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\PaymentCalculator.application
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\PaymentCalculator.exe
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\PaymentCalculator.pdb
+C:\Users\St\Downloads\NatCalculator (2)\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\PaymentCalculator.exe
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\PaymentCalculator.pdb
+C:\Users\Bo\Desktop\For IH\ForAgency\bin\Debug\PaymentCalculator.exe.manifest
+C:\Users\Bo\Desktop\For IH\ForAgency\bin\Debug\PaymentCalculator.application
+C:\Users\Bo\Desktop\For IH\ForAgency\bin\Debug\PaymentCalculator.exe
+C:\Users\Bo\Desktop\For IH\ForAgency\bin\Debug\PaymentCalculator.pdb
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\NatCalculator.resultBox.resources
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\PrintableListView.PrintableListView.resources
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\PaymentCalculator.exe.manifest
+C:\Users\Bo\Desktop\For IH\ForAgency\obj\x86\Debug\PaymentCalculator.application
+C:\Users\Bo\Desktop\ForAgency\bin\Debug\PaymentCalculator.exe.manifest
+C:\Users\Bo\Desktop\ForAgency\bin\Debug\PaymentCalculator.application
+C:\Users\Bo\Desktop\ForAgency\bin\Debug\PaymentCalculator.exe
+C:\Users\Bo\Desktop\ForAgency\bin\Debug\PaymentCalculator.pdb
+C:\Users\Bo\Desktop\ForAgency\bin\Debug\itextsharp.dll
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\NatCalculator.resultBox.resources
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\PrintableListView.PrintableListView.resources
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\PaymentCalculator.exe.manifest
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\PaymentCalculator.application
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\PaymentCalculator.exe
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\PaymentCalculator.pdb
+C:\Users\Bo\Desktop\ForAgency\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\PaymentCalculator.exe
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\PaymentCalculator.pdb
+C:\Users\St\Downloads\ForAgency\ForAgency\bin\Debug\PaymentCalculator.exe.manifest
+C:\Users\St\Downloads\ForAgency\ForAgency\bin\Debug\PaymentCalculator.application
+C:\Users\St\Downloads\ForAgency\ForAgency\bin\Debug\PaymentCalculator.exe
+C:\Users\St\Downloads\ForAgency\ForAgency\bin\Debug\PaymentCalculator.pdb
+C:\Users\St\Downloads\ForAgency\ForAgency\bin\Debug\itextsharp.dll
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\NatCalculator.resultBox.resources
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\PrintableListView.PrintableListView.resources
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\PaymentCalculator.exe.manifest
+C:\Users\St\Downloads\ForAgency\ForAgency\obj\x86\Debug\PaymentCalculator.application
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.exe
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.pdb
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.exe.manifest
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.application
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.exe
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.pdb
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\bin\Debug\itextsharp.dll
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.resultBox.resources
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.application
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.exe
+\\192.168.100.8\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\bin\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\bin\Debug\itextsharp.dll
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.resultBox.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\ForAgency\obj\x86\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\itextsharp.dll
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.resultBox.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintanance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.application
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.exe
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.pdb
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.exe.manifest
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.application
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.exe
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\PaymentCalculator.pdb
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\bin\Debug\itextsharp.dll
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.resultBox.resources
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\ihbrisbanedata\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2016\Internal\internal\obj\x86\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\itextsharp.dll
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.resultBox.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Technology\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\bin\Debug\itextsharp.dll
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.resultBox.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\internal\obj\x86\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\bin\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\bin\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\bin\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\bin\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\bin\Debug\itextsharp.dll
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\NatCalculator.csprojResolveAssemblyReference.cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\NatCalculator.resultBox.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\Source Code\obj\x86\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\bin\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\bin\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\bin\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\bin\Debug\PaymentCalculator.pdb
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\bin\Debug\itextsharp.dll
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\NatCalculator.resultBox.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\PrintableListView.PrintableListView.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\NatCalculator.PersonalDetailForm.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\NatCalculator.Properties.Resources.resources
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\NatCalculator.csproj.GenerateResource.Cache
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\PaymentCalculator.exe.manifest
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\PaymentCalculator.application
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\PaymentCalculator.exe
+\\IHBRISBANEDATA\AdminSharedFolder\Admin\Maintenance\Developed Software\Payment Calculator\2017\Internal\09052017 SourceCode\obj\x86\Debug\PaymentCalculator.pdb
